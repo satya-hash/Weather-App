@@ -1,5 +1,9 @@
 # Weather-App
 
+## Preview
+
+![preview](./src/assets/weatherapp.png)
+
 This Project is created using [vite](https://github.com/vitejs/vite)
 
 ## Scripts present in the project
