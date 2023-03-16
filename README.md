@@ -1,5 +1,7 @@
 # Weather-App
 
+[Demo](https://stalwart-blini-091a3e.netlify.app/)
+
 ## Preview
 
 ![preview](./src/assets/weatherapp.png)
